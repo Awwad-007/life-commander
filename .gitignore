@@ -1,0 +1,12 @@
+# Coral repo cloned by setup.ps1
+/coral/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
